@@ -24,6 +24,7 @@ body{
     background-color: black;
     font-size: 40px;
     font-family: Bungee Spice ;
+    position: fixed;
 }
 #titulo {
     height: 25%;
@@ -41,7 +42,7 @@ body{
 }
 
 #publicidad, #merchandising, #promocionVentas {
-    width: 33%;
+    width: 32%;
 }
 
 .list-group-item {
