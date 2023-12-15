@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice');
+body{
+    background-color: rgb(88, 97, 100);
+    color: chocolate;
+    text-align: center;
+}
+.inicio{
+    background-color: black;
+    font-size: 20px;
+}
+#menubar{
+    background-color: blueviolet;
+}
+.vls{
+    background-color: white;
+}
+.descripcion{
+    font-family: Nabla;
+    font-size: 40px;
+}
+.inicio1{
+    padding: 20%;
+    background-color: black;
+    font-size: 40px;
+    font-family: Bungee Spice ;
+}
+#titulo {
+    height: 25%;
+    background-color: rgb(134, 77, 146);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+    align-items: center;
+}
+
+#promocion {
+    height: auto;
+    display: flex;
+}
+
+#publicidad, #merchandising, #promocionVentas {
+    width: 33%;
+}
+
+.list-group-item {
+    height: 70px;
+}
+
+#ventas {
+    height: auto;
+    display: flex;
+}
+
+#pMarketing, #pPuestos {
+    width: 50%;
+}
+
+#pID {
+    width: 100%;
+}
+
+p {
+    font-size: 15px;
+}
+
+.div{
+    background-color: rgb(134, 77, 146); ;
+}
+li{
+    border-right: black 1px solid;
+    border-left: black 1px solid;
+}
