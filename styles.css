@@ -67,9 +67,15 @@ p {
 }
 
 .div{
-    background-color: rgb(134, 77, 146); ;
+    background-color: rgb(134, 77, 146);
 }
+
 li{
     border-right: black 1px solid;
     border-left: black 1px solid;
+}
+
+table{
+    background-color: rgb(232, 247, 171);
+    color: rgb(117, 76, 246);
 }
