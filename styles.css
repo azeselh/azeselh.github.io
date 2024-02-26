@@ -5,6 +5,18 @@ body{
     color: chocolate;
     text-align: center;
 }
+.iva h1{
+    background-color: rgb(176, 218, 218);
+    color: black;
+    text-align: left;
+    font-size: 29px;
+}
+.iva p, h1, h2{
+    background-color: rgb(176, 218, 218);
+    color: black;
+    text-align: left;
+    font-size: 26px;
+}
 .iva p, h1, h2{
     background-color: rgb(176, 218, 218);
     color: black;
